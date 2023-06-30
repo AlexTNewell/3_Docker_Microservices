@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  hello-world:
+    build: ./application
+    ports: 
+    - "5001:5001"
+
+networks:
+  top-level-net:
+    external: true
