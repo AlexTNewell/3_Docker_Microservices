@@ -6,6 +6,17 @@ These setups were developed as part of the "Docker & Kubernetes: The Practical G
 
 I pursued this course to better prepare for the DCA and CKAD exams scheduled for early September 2023.
 
+## Installation
+
+In order to replicate this repository you will need to install docker:
+
+Linux: https://docs.docker.com/desktop/install/linux-install/
+MacOS: https://docs.docker.com/desktop/install/mac-install/
+Windows: https://docs.docker.com/desktop/install/windows-install/
+
+
+
+
 
 
 
