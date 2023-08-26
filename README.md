@@ -1,10 +1,10 @@
 # Docker Microservices
-The primary objective of this repository is to showcase my aptitude in crafting language-specific Docker images and containers. This repository comprises three distinct docker setups. These setups are for Python, JavaScript, and PHP. 
 
-These setups were created as part of the "Docker & Kubernetes: The Practical Guide" course taught by Maximilian Schwarzmüller and is available on Udemy.
+The main purpose of this repository is to demonstrate my ability to create language-specific Docker images and containers. It contains three distinct Docker setups for Python, JavaScript, and PHP.
 
-I undertook this course to help prepare me for the DCA and CKAD examinations, which I will be taking early September 2023. 
+These setups were developed as part of the "Docker & Kubernetes: The Practical Guide" course taught by Maximilian Schwarzmüller, available on Udemy.
 
+I pursued this course to better prepare for the DCA and CKAD exams scheduled for early September 2023.
 
 
 
